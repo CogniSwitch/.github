@@ -1,4 +1,4 @@
-# <img src="https://github.com/CogniSwitch/.github/assets/131272471/141c5781-00f1-46dd-969e-99db86b56ef3" alt="CogniSwitch.ai" height="50"/>  About CogniSwitch.ai 
+# <img src="https://github.com/CogniSwitch/.github/assets/131272471/8153ed46-791e-497a-9af6-a847271c4128" alt="CogniSwitch.ai" height="50"/>  About CogniSwitch.ai 
 CogniSwitch.ai is dedicated to making generative AI technology easy to use and accessible to a wide range of users. Our mission is to simplify the development pipeline for generative AI applications, reduce implementation times, and lower costs. We achieve this by automating the development process and providing all the necessary tools for building reliable AI applications.  
 
 At the core of our platform is the state-of-the-art Fusion RAG (Fusion - Retrieval Augmented Generation) technology, which enhances the reliability, security, and accuracy of generative AI. CogniSwitch.ai follows an Ingestion-Curation-Provision (ICP) structure explained below. 
